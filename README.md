@@ -29,6 +29,10 @@ Analyze a business dataset using SQL to answer practical questions and generate 
 - Revenue is concentrated among a small set of high-value customers, indicating potential dependency risk
 - Identified top-selling products, with **S18_3232** leading revenue at **$288K**
 - Product-level analysis shows revenue concentration among a small set of high-performing SKUs
+- Classic Cars is the top-performing product line, generating **$3.92M** in revenue
+- Vintage Cars and Motorcycles contributed **$1.90M** and **$1.17M**, respectively
+- Product line analysis highlights Classic Cars as the primary driver of overall sales performance
+
 
 
 
