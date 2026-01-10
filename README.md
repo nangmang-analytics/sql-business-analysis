@@ -23,6 +23,9 @@ Analyze a business dataset using SQL to answer practical questions and generate 
 - Highlighted high-value customers
 - Analyzed 2,823 sales records using PostgreSQL
 - Total revenue across all orders was **$10.03M**
+- Revenue increased from **$3.52M in 2003** to **$4.72M in 2004**, indicating strong year-over-year growth.
+- Revenue dropped to **$1.79M in 2005**, likely reflecting partial-year data rather than a full decline.
+
 
 ## 📂 Files
 - `queries.sql` – SQL queries used in this analysis
