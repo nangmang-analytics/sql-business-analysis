@@ -21,6 +21,8 @@ Analyze a business dataset using SQL to answer practical questions and generate 
 - Identified top revenue-driving products and categories
 - Found sales trends over time
 - Highlighted high-value customers
+- Analyzed 2,823 sales records using PostgreSQL
+- Total revenue across all orders was **$10.03M**
 
 ## 📂 Files
 - `queries.sql` – SQL queries used in this analysis
