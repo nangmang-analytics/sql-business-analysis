@@ -25,6 +25,9 @@ Analyze a business dataset using SQL to answer practical questions and generate 
 - Total revenue across all orders was **$10.03M**
 - Revenue increased from **$3.52M in 2003** to **$4.72M in 2004**, indicating strong year-over-year growth.
 - Revenue dropped to **$1.79M in 2005**, likely reflecting partial-year data rather than a full decline.
+- Identified top revenue-generating customers, led by **Euro Shopping Channel ($912K)** and **Mini Gifts Distributors Ltd. ($655K)**
+- Revenue is concentrated among a small set of high-value customers, indicating potential dependency risk
+
 
 
 ## 📂 Files
