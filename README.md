@@ -27,6 +27,9 @@ Analyze a business dataset using SQL to answer practical questions and generate 
 - Revenue dropped to **$1.79M in 2005**, likely reflecting partial-year data rather than a full decline.
 - Identified top revenue-generating customers, led by **Euro Shopping Channel ($912K)** and **Mini Gifts Distributors Ltd. ($655K)**
 - Revenue is concentrated among a small set of high-value customers, indicating potential dependency risk
+- Identified top-selling products, with **S18_3232** leading revenue at **$288K**
+- Product-level analysis shows revenue concentration among a small set of high-performing SKUs
+
 
 
 
